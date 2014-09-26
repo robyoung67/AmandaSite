@@ -1,0 +1,108 @@
+@charset "utf-8";
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "miss-fajardose";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  font-size: xx-large;
+  line-height: normal;
+  font-size-adjust: none;
+  font-stretch: normal;
+  background-color: #42413c;
+  color: #000000;
+  background-image: url(../images/Background.jpg);
+  text-align: center;
+}
+ul, ol, dl {
+  margin: 0;
+  padding: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+  font-style: normal;
+  margin-top: 0;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+a img {
+  border:  none;
+}
+a:link {
+  color: #060bff;
+  text-decoration: underline;
+  font-family: "Palatino Linotype";
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bolder;
+  font-size: large;
+  line-height: normal;
+  font-size-adjust: none;
+  font-stretch: normal;
+  text-shadow: #e3e3e3 0px 0px ;
+}
+a:visited {
+  color: #101111;
+  text-decoration: underline;
+}
+a:hover, a:active, a:focus {
+  text-decoration: none;
+}
+.container {
+  margin: 0 auto;
+  width: 960px;
+  background-color: #ffffff;
+}
+header {
+  background-color: #adb96e;
+}
+.sidebar1 {
+  float: right;
+  width: 8px;
+  padding-bottom: 10px;
+}
+.content {
+  padding: 0px 0 10px;
+  width: 780px;
+  float: right;
+}
+.content ul, .content ol {
+  padding: 0 15px 15px 40px;
+}
+nav ul {
+  border-top: 1px solid #666666;
+  list-style-type: none;
+  list-style-image: none;
+  list-style-position: outside;
+  margin-bottom: 15px;
+  background-image: url(../images/navBackground.jpg);
+}
+nav li {
+  border-bottom: 1px solid #666666;
+}
+nav a, nav a:visited {
+  padding: 5px 5px 5px 15px;
+  display: block;
+  width: 160px;
+  text-decoration: none;
+}
+nav a:hover, nav a:active, nav a:focus {
+  color: #ffffff;
+}
+footer {
+  padding: 10px 0;
+  background-color: #d8f6fe;
+  position: relative;
+  clear: both;
+}
+header, section, footer, aside, article, figure {
+  display: block;
+}
+.top {
+  width: 100%;
+  background-color: #ffffff;
+  padding-top: 20px;
+}
+#top {
+}
+
