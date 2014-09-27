@@ -21,8 +21,8 @@ foreach ($keys as $key){
     <tbody>
     <tr>
         <td
-            style="vertical-align: middle; height: 100%; width: 33%; text-align: center;"><img
-                style="width: 200px; height: 196px;" alt="we" src="/images/forumbtn.jpg"></td>
+            style="vertical-align: middle; height: 100%; width: 33%; text-align: center;"><a href="http://yankee-kitchen-ninja.com/phpbb"><img
+                style="width: 200px; height: 196px;" alt="we" src="/images/forumbtn.jpg"></a></td>
         <td
             style="vertical-align: middle; height: 100%; width: 33%; text-align: center;"><img
                 style="width: 200px; height: 196px;" alt="we" src="/images/shopbtn.jpg"></td>
@@ -33,30 +33,3 @@ foreach ($keys as $key){
     </tbody>
 </table>
 <br>
-
-<table style="text-align: center; width: 49px; height: 50px;" border="0"
-       cellpadding="2" cellspacing="2">
-    <tbody>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;"><img
-                style="width: 45px; height: 47px;" alt="fb"
-                src="/images/facebookBtn.jpg"><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img style="text-align: center; width: 49px; height: 50px;" alt="tt"
-                 src="/images/twitterBtn.jpg"><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img style="text-align: center; width: 49px; height: 54px;" alt="gb"
-                 src="/images/googlebtn.jpg"><br>
-        </td>
-    </tr>
-    <tr>
-        <td><img style="width: 48px; height: 49px;" alt="ut"
-                 src="/images/utubebtn.jpg"><br>
-        </td>
-    </tr>
-    </tbody>
-</table>
